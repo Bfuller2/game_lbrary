@@ -1,0 +1,112 @@
+body{
+    background-color:#001146;
+    color:#000;
+}
+header{
+    border-bottom: 3px solid #000;
+}
+main{
+    background:#fff;
+    padding-top:15px;
+    width:60%;
+    position:relative;
+    left:20%;
+}
+
+footer{
+    border-top: 3px solid #000;
+    padding-top: 23px;
+    text-align:right;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+
+}
+
+.copy{
+    position:relative;
+    right:30px;
+}
+wrapper{
+    width:30%;
+    padding:30px;
+}
+
+aside{
+    float:left;
+    position:relative;
+    left:-160px;
+    padding:30px;
+    bottom:60px;
+}
+
+section{
+    width:50%;
+    position:relative;
+    left:15%;
+    bottom:210px;
+}
+
+/*goes to the title of the game list*/
+.gltitle{
+    position:relative;
+    right:130px;
+
+}
+
+th{
+    width:100%;
+    text-align:left;    
+}
+
+tbody{
+    width:60%;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    width:100px;
+
+}
+
+td, th {
+    border: 1px dashed black;
+    padding: .2em .3em .2em .5em;
+    text-align: left;
+    white-space: nowrap ;
+}
+
+.add_game_form {
+    margin: .5em 0;
+}
+#add_game_form label {
+    width: 6em;
+    padding-right: 1em;
+    padding-bottom: .5em;
+    float: left;
+}
+#add_game_form input {
+    float: left;
+}
+#add_game_form input[text] {
+    width: 15em;
+}
+
+.glTitle{
+    position:relative;
+    text-align: center;
+}
+
+.links{
+    text-align: right;
+    position:relative;
+    left:80%;
+    bottom:380px;
+    font-size:25px;
+    text-decoration:none; 
+}
+
+h3 {
+    font-size:25px;
+}

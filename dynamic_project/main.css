@@ -1,0 +1,43 @@
+body{
+    background-color:#001146;
+    color:#000;
+}
+header{
+    border-bottom: 3px solid #000;
+}
+main{
+    background:#fff;
+    width:60%;
+    position:relative;
+    left:20%;
+    padding-bottom:30px;
+    padding-top:15px;
+}
+
+footer{
+    border-top: 3px solid #000;
+    padding-top: 23px;
+    text-align:right;
+    
+}
+
+.copy{
+    position:relative;
+    right:30px;
+}
+tr {
+    width:80%;
+}
+
+table {
+
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    width:100px;
+}
+
+
+.gltitle{
+    position:relative;
+    left:60px;
+}
