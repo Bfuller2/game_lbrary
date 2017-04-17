@@ -1,7 +1,8 @@
 <?php
-    $dsn = 'mysql:host=localhost;dbname=game_library';
-    $username = 'mgs_user';
-    $password = 'pa55word';
+<!--add your own database info here-->
+    $dsn = '';
+    $username = '';
+    $password = '';
 
     try {
         $db = new PDO($dsn, $username, $password);
